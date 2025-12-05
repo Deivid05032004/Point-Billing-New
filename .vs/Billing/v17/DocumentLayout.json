@@ -1,30 +1,42 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\MY PC\\source\\repos\\Billing\\",
+  "WorkspaceRootPath": "C:\\Users\\Damian\\Desktop\\Point-Billing-New\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D2DDDD54-1056-4141-B559-1379B9C19717}|Billing.Sales.Backend.DataContext.EFCore\\Billing.Sales.Backend.DataContext.EFCore.csproj|c:\\users\\my pc\\source\\repos\\billing\\billing.sales.backend.datacontext.efcore\\migrations\\20251204213526_inicial1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D2DDDD54-1056-4141-B559-1379B9C19717}|Billing.Sales.Backend.DataContext.EFCore\\Billing.Sales.Backend.DataContext.EFCore.csproj|solutionrelative:billing.sales.backend.datacontext.efcore\\migrations\\20251204213526_inicial1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FA1C9034-DB7B-4E89-94E8-E2CD0A739710}|Billing.Sales.Fronend.Gateways\\Billing.Sales.Fronend.Gateways.csproj|c:\\users\\damian\\desktop\\point-billing-new\\billing.sales.fronend.gateways\\customergateway\\createcustomergateway.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA1C9034-DB7B-4E89-94E8-E2CD0A739710}|Billing.Sales.Fronend.Gateways\\Billing.Sales.Fronend.Gateways.csproj|solutionrelative:billing.sales.fronend.gateways\\customergateway\\createcustomergateway.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D2DDDD54-1056-4141-B559-1379B9C19717}|Billing.Sales.Backend.DataContext.EFCore\\Billing.Sales.Backend.DataContext.EFCore.csproj|c:\\users\\my pc\\source\\repos\\billing\\billing.sales.backend.datacontext.efcore\\configurations\\orderconfigurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D2DDDD54-1056-4141-B559-1379B9C19717}|Billing.Sales.Backend.DataContext.EFCore\\Billing.Sales.Backend.DataContext.EFCore.csproj|solutionrelative:billing.sales.backend.datacontext.efcore\\configurations\\orderconfigurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{83FAE984-D2AA-460C-A2C6-83E6DFEBE3B9}|Billing.Sales.Backend.Repositories\\Billing.Sales.Backend.Repositories.csproj|c:\\users\\damian\\desktop\\point-billing-new\\billing.sales.backend.repositories\\repositories\\userrepositorycommands.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83FAE984-D2AA-460C-A2C6-83E6DFEBE3B9}|Billing.Sales.Backend.Repositories\\Billing.Sales.Backend.Repositories.csproj|solutionrelative:billing.sales.backend.repositories\\repositories\\userrepositorycommands.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D2DDDD54-1056-4141-B559-1379B9C19717}|Billing.Sales.Backend.DataContext.EFCore\\Billing.Sales.Backend.DataContext.EFCore.csproj|c:\\users\\my pc\\source\\repos\\billing\\billing.sales.backend.datacontext.efcore\\configurations\\orderdetailsconfigurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D2DDDD54-1056-4141-B559-1379B9C19717}|Billing.Sales.Backend.DataContext.EFCore\\Billing.Sales.Backend.DataContext.EFCore.csproj|solutionrelative:billing.sales.backend.datacontext.efcore\\configurations\\orderdetailsconfigurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8FFC9AD8-77D1-4085-8E8E-6DDF27D4FBA4}|Billing.Sales.Backend.BusinessObjects\\Billing.Sales.Backend.BusinessObjects.csproj|c:\\users\\damian\\desktop\\point-billing-new\\billing.sales.backend.businessobjects\\interfaces\\repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FFC9AD8-77D1-4085-8E8E-6DDF27D4FBA4}|Billing.Sales.Backend.BusinessObjects\\Billing.Sales.Backend.BusinessObjects.csproj|solutionrelative:billing.sales.backend.businessobjects\\interfaces\\repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D2DDDD54-1056-4141-B559-1379B9C19717}|Billing.Sales.Backend.DataContext.EFCore\\Billing.Sales.Backend.DataContext.EFCore.csproj|c:\\users\\my pc\\source\\repos\\billing\\billing.sales.backend.datacontext.efcore\\configurations\\productsconfigurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D2DDDD54-1056-4141-B559-1379B9C19717}|Billing.Sales.Backend.DataContext.EFCore\\Billing.Sales.Backend.DataContext.EFCore.csproj|solutionrelative:billing.sales.backend.datacontext.efcore\\configurations\\productsconfigurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{83FAE984-D2AA-460C-A2C6-83E6DFEBE3B9}|Billing.Sales.Backend.Repositories\\Billing.Sales.Backend.Repositories.csproj|c:\\users\\damian\\desktop\\point-billing-new\\billing.sales.backend.repositories\\interfaces\\usercommand\\iuserbillingsalescommanddatacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83FAE984-D2AA-460C-A2C6-83E6DFEBE3B9}|Billing.Sales.Backend.Repositories\\Billing.Sales.Backend.Repositories.csproj|solutionrelative:billing.sales.backend.repositories\\interfaces\\usercommand\\iuserbillingsalescommanddatacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D2DDDD54-1056-4141-B559-1379B9C19717}|Billing.Sales.Backend.DataContext.EFCore\\Billing.Sales.Backend.DataContext.EFCore.csproj|c:\\users\\my pc\\source\\repos\\billing\\billing.sales.backend.datacontext.efcore\\configurations\\customerconfigurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D2DDDD54-1056-4141-B559-1379B9C19717}|Billing.Sales.Backend.DataContext.EFCore\\Billing.Sales.Backend.DataContext.EFCore.csproj|solutionrelative:billing.sales.backend.datacontext.efcore\\configurations\\customerconfigurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FA1C9034-DB7B-4E89-94E8-E2CD0A739710}|Billing.Sales.Fronend.Gateways\\Billing.Sales.Fronend.Gateways.csproj|c:\\users\\damian\\desktop\\point-billing-new\\billing.sales.fronend.gateways\\productgateway\\createproductgateway.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA1C9034-DB7B-4E89-94E8-E2CD0A739710}|Billing.Sales.Fronend.Gateways\\Billing.Sales.Fronend.Gateways.csproj|solutionrelative:billing.sales.fronend.gateways\\productgateway\\createproductgateway.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8FFC9AD8-77D1-4085-8E8E-6DDF27D4FBA4}|Billing.Sales.Backend.BusinessObjects\\Billing.Sales.Backend.BusinessObjects.csproj|c:\\users\\my pc\\source\\repos\\billing\\billing.sales.backend.businessobjects\\pocoentities\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8FFC9AD8-77D1-4085-8E8E-6DDF27D4FBA4}|Billing.Sales.Backend.BusinessObjects\\Billing.Sales.Backend.BusinessObjects.csproj|solutionrelative:billing.sales.backend.businessobjects\\pocoentities\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5E4BEB33-5FE6-4AA1-9FA4-BF1AFB85517A}|Billing.Sales.Backend.UseCases\\Billing.Sales.Backend.UseCases.csproj|c:\\users\\damian\\desktop\\point-billing-new\\billing.sales.backend.usecases\\authinteractor\\authinteractor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E4BEB33-5FE6-4AA1-9FA4-BF1AFB85517A}|Billing.Sales.Backend.UseCases\\Billing.Sales.Backend.UseCases.csproj|solutionrelative:billing.sales.backend.usecases\\authinteractor\\authinteractor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E4BEB33-5FE6-4AA1-9FA4-BF1AFB85517A}|Billing.Sales.Backend.UseCases\\Billing.Sales.Backend.UseCases.csproj|c:\\users\\damian\\desktop\\point-billing-new\\billing.sales.backend.usecases\\billing.sales.backend.usecases.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5E4BEB33-5FE6-4AA1-9FA4-BF1AFB85517A}|Billing.Sales.Backend.UseCases\\Billing.Sales.Backend.UseCases.csproj|solutionrelative:billing.sales.backend.usecases\\billing.sales.backend.usecases.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FFC9AD8-77D1-4085-8E8E-6DDF27D4FBA4}|Billing.Sales.Backend.BusinessObjects\\Billing.Sales.Backend.BusinessObjects.csproj|c:\\users\\damian\\desktop\\point-billing-new\\billing.sales.backend.businessobjects\\interfaces\\authports\\iauthoutputport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FFC9AD8-77D1-4085-8E8E-6DDF27D4FBA4}|Billing.Sales.Backend.BusinessObjects\\Billing.Sales.Backend.BusinessObjects.csproj|solutionrelative:billing.sales.backend.businessobjects\\interfaces\\authports\\iauthoutputport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FFC9AD8-77D1-4085-8E8E-6DDF27D4FBA4}|Billing.Sales.Backend.BusinessObjects\\Billing.Sales.Backend.BusinessObjects.csproj|c:\\users\\damian\\desktop\\point-billing-new\\billing.sales.backend.businessobjects\\interfaces\\authports\\iauthinputport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FFC9AD8-77D1-4085-8E8E-6DDF27D4FBA4}|Billing.Sales.Backend.BusinessObjects\\Billing.Sales.Backend.BusinessObjects.csproj|solutionrelative:billing.sales.backend.businessobjects\\interfaces\\authports\\iauthinputport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,106 +46,136 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 0,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CreateCustomerGateway.cs",
+              "DocumentMoniker": "C:\\Users\\Damian\\Desktop\\Point-Billing-New\\Billing.Sales.Fronend.Gateways\\CustomerGateway\\CreateCustomerGateway.cs",
+              "RelativeDocumentMoniker": "Billing.Sales.Fronend.Gateways\\CustomerGateway\\CreateCustomerGateway.cs",
+              "ToolTip": "C:\\Users\\Damian\\Desktop\\Point-Billing-New\\Billing.Sales.Fronend.Gateways\\CustomerGateway\\CreateCustomerGateway.cs",
+              "RelativeToolTip": "Billing.Sales.Fronend.Gateways\\CustomerGateway\\CreateCustomerGateway.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T23:35:28.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserRepositoryCommands.cs",
+              "DocumentMoniker": "C:\\Users\\Damian\\Desktop\\Point-Billing-New\\Billing.Sales.Backend.Repositories\\Repositories\\UserRepositoryCommands.cs",
+              "RelativeDocumentMoniker": "Billing.Sales.Backend.Repositories\\Repositories\\UserRepositoryCommands.cs",
+              "ToolTip": "C:\\Users\\Damian\\Desktop\\Point-Billing-New\\Billing.Sales.Backend.Repositories\\Repositories\\UserRepositoryCommands.cs",
+              "RelativeToolTip": "Billing.Sales.Backend.Repositories\\Repositories\\UserRepositoryCommands.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T23:26:26.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Damian\\Desktop\\Point-Billing-New\\Billing.Sales.Backend.BusinessObjects\\Interfaces\\Repositories\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "Billing.Sales.Backend.BusinessObjects\\Interfaces\\Repositories\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\Damian\\Desktop\\Point-Billing-New\\Billing.Sales.Backend.BusinessObjects\\Interfaces\\Repositories\\IUserRepository.cs",
+              "RelativeToolTip": "Billing.Sales.Backend.BusinessObjects\\Interfaces\\Repositories\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA8AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T23:21:13.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IUserBillingSalesCommandDataContext.cs",
+              "DocumentMoniker": "C:\\Users\\Damian\\Desktop\\Point-Billing-New\\Billing.Sales.Backend.Repositories\\Interfaces\\UserCommand\\IUserBillingSalesCommandDataContext.cs",
+              "RelativeDocumentMoniker": "Billing.Sales.Backend.Repositories\\Interfaces\\UserCommand\\IUserBillingSalesCommandDataContext.cs",
+              "ToolTip": "C:\\Users\\Damian\\Desktop\\Point-Billing-New\\Billing.Sales.Backend.Repositories\\Interfaces\\UserCommand\\IUserBillingSalesCommandDataContext.cs",
+              "RelativeToolTip": "Billing.Sales.Backend.Repositories\\Interfaces\\UserCommand\\IUserBillingSalesCommandDataContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T23:25:46.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CreateProductGateway.cs",
+              "DocumentMoniker": "C:\\Users\\Damian\\Desktop\\Point-Billing-New\\Billing.Sales.Fronend.Gateways\\ProductGateway\\CreateProductGateway.cs",
+              "RelativeDocumentMoniker": "Billing.Sales.Fronend.Gateways\\ProductGateway\\CreateProductGateway.cs",
+              "ToolTip": "C:\\Users\\Damian\\Desktop\\Point-Billing-New\\Billing.Sales.Fronend.Gateways\\ProductGateway\\CreateProductGateway.cs",
+              "RelativeToolTip": "Billing.Sales.Fronend.Gateways\\ProductGateway\\CreateProductGateway.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAA3wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T23:27:36.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Billing.Sales.Backend.UseCases",
+              "DocumentMoniker": "C:\\Users\\Damian\\Desktop\\Point-Billing-New\\Billing.Sales.Backend.UseCases\\Billing.Sales.Backend.UseCases.csproj",
+              "RelativeDocumentMoniker": "Billing.Sales.Backend.UseCases\\Billing.Sales.Backend.UseCases.csproj",
+              "ToolTip": "C:\\Users\\Damian\\Desktop\\Point-Billing-New\\Billing.Sales.Backend.UseCases\\Billing.Sales.Backend.UseCases.csproj",
+              "RelativeToolTip": "Billing.Sales.Backend.UseCases\\Billing.Sales.Backend.UseCases.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-04T23:21:57.464Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{51d8ca1e-4698-404c-a37b-a4a41603557b}"
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "20251204213526_Inicial1.cs",
-              "DocumentMoniker": "C:\\Users\\MY PC\\source\\repos\\Billing\\Billing.Sales.Backend.DataContext.EFCore\\Migrations\\20251204213526_Inicial1.cs",
-              "RelativeDocumentMoniker": "Billing.Sales.Backend.DataContext.EFCore\\Migrations\\20251204213526_Inicial1.cs",
-              "ToolTip": "C:\\Users\\MY PC\\source\\repos\\Billing\\Billing.Sales.Backend.DataContext.EFCore\\Migrations\\20251204213526_Inicial1.cs",
-              "RelativeToolTip": "Billing.Sales.Backend.DataContext.EFCore\\Migrations\\20251204213526_Inicial1.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-04T21:35:27.239Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "OrderConfigurations.cs",
-              "DocumentMoniker": "C:\\Users\\MY PC\\source\\repos\\Billing\\Billing.Sales.Backend.DataContext.EFCore\\Configurations\\OrderConfigurations.cs",
-              "RelativeDocumentMoniker": "Billing.Sales.Backend.DataContext.EFCore\\Configurations\\OrderConfigurations.cs",
-              "ToolTip": "C:\\Users\\MY PC\\source\\repos\\Billing\\Billing.Sales.Backend.DataContext.EFCore\\Configurations\\OrderConfigurations.cs",
-              "RelativeToolTip": "Billing.Sales.Backend.DataContext.EFCore\\Configurations\\OrderConfigurations.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAA5wAkAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-04T21:24:22.253Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "OrderDetailsConfigurations.cs",
-              "DocumentMoniker": "C:\\Users\\MY PC\\source\\repos\\Billing\\Billing.Sales.Backend.DataContext.EFCore\\Configurations\\OrderDetailsConfigurations.cs",
-              "RelativeDocumentMoniker": "Billing.Sales.Backend.DataContext.EFCore\\Configurations\\OrderDetailsConfigurations.cs",
-              "ToolTip": "C:\\Users\\MY PC\\source\\repos\\Billing\\Billing.Sales.Backend.DataContext.EFCore\\Configurations\\OrderDetailsConfigurations.cs",
-              "RelativeToolTip": "Billing.Sales.Backend.DataContext.EFCore\\Configurations\\OrderDetailsConfigurations.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-04T21:21:27.247Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ProductsConfigurations.cs",
-              "DocumentMoniker": "C:\\Users\\MY PC\\source\\repos\\Billing\\Billing.Sales.Backend.DataContext.EFCore\\Configurations\\ProductsConfigurations.cs",
-              "RelativeDocumentMoniker": "Billing.Sales.Backend.DataContext.EFCore\\Configurations\\ProductsConfigurations.cs",
-              "ToolTip": "C:\\Users\\MY PC\\source\\repos\\Billing\\Billing.Sales.Backend.DataContext.EFCore\\Configurations\\ProductsConfigurations.cs",
-              "RelativeToolTip": "Billing.Sales.Backend.DataContext.EFCore\\Configurations\\ProductsConfigurations.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAqwCQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-04T21:19:54.431Z"
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "Customer.cs",
-              "DocumentMoniker": "C:\\Users\\MY PC\\source\\repos\\Billing\\Billing.Sales.Backend.BusinessObjects\\POCOEntities\\Customer.cs",
-              "RelativeDocumentMoniker": "Billing.Sales.Backend.BusinessObjects\\POCOEntities\\Customer.cs",
-              "ToolTip": "C:\\Users\\MY PC\\source\\repos\\Billing\\Billing.Sales.Backend.BusinessObjects\\POCOEntities\\Customer.cs",
-              "RelativeToolTip": "Billing.Sales.Backend.BusinessObjects\\POCOEntities\\Customer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "AuthInteractor.cs",
+              "DocumentMoniker": "C:\\Users\\Damian\\Desktop\\Point-Billing-New\\Billing.Sales.Backend.UseCases\\AuthInteractor\\AuthInteractor.cs",
+              "RelativeDocumentMoniker": "Billing.Sales.Backend.UseCases\\AuthInteractor\\AuthInteractor.cs",
+              "ToolTip": "C:\\Users\\Damian\\Desktop\\Point-Billing-New\\Billing.Sales.Backend.UseCases\\AuthInteractor\\AuthInteractor.cs",
+              "RelativeToolTip": "Billing.Sales.Backend.UseCases\\AuthInteractor\\AuthInteractor.cs",
+              "ViewState": "AgIAALgAAAAAAAAAAAAwwMkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-04T21:18:47.889Z"
+              "WhenOpened": "2025-12-04T23:22:02.471Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "CustomerConfigurations.cs",
-              "DocumentMoniker": "C:\\Users\\MY PC\\source\\repos\\Billing\\Billing.Sales.Backend.DataContext.EFCore\\Configurations\\CustomerConfigurations.cs",
-              "RelativeDocumentMoniker": "Billing.Sales.Backend.DataContext.EFCore\\Configurations\\CustomerConfigurations.cs",
-              "ToolTip": "C:\\Users\\MY PC\\source\\repos\\Billing\\Billing.Sales.Backend.DataContext.EFCore\\Configurations\\CustomerConfigurations.cs",
-              "RelativeToolTip": "Billing.Sales.Backend.DataContext.EFCore\\Configurations\\CustomerConfigurations.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAowCgAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 7,
+              "Title": "IAuthOutputPort.cs",
+              "DocumentMoniker": "C:\\Users\\Damian\\Desktop\\Point-Billing-New\\Billing.Sales.Backend.BusinessObjects\\Interfaces\\AuthPorts\\IAuthOutputPort.cs",
+              "RelativeDocumentMoniker": "Billing.Sales.Backend.BusinessObjects\\Interfaces\\AuthPorts\\IAuthOutputPort.cs",
+              "ToolTip": "C:\\Users\\Damian\\Desktop\\Point-Billing-New\\Billing.Sales.Backend.BusinessObjects\\Interfaces\\AuthPorts\\IAuthOutputPort.cs",
+              "RelativeToolTip": "Billing.Sales.Backend.BusinessObjects\\Interfaces\\AuthPorts\\IAuthOutputPort.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-04T21:14:08.702Z"
-            }
-          ]
-        },
-        {
-          "DockedWidth": 874,
-          "SelectedChildIndex": -1,
-          "Children": [
+              "WhenOpened": "2025-12-04T23:19:51.892Z",
+              "EditorCaption": ""
+            },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IAuthInputPort.cs",
+              "DocumentMoniker": "C:\\Users\\Damian\\Desktop\\Point-Billing-New\\Billing.Sales.Backend.BusinessObjects\\Interfaces\\AuthPorts\\IAuthInputPort.cs",
+              "RelativeDocumentMoniker": "Billing.Sales.Backend.BusinessObjects\\Interfaces\\AuthPorts\\IAuthInputPort.cs",
+              "ToolTip": "C:\\Users\\Damian\\Desktop\\Point-Billing-New\\Billing.Sales.Backend.BusinessObjects\\Interfaces\\AuthPorts\\IAuthInputPort.cs",
+              "RelativeToolTip": "Billing.Sales.Backend.BusinessObjects\\Interfaces\\AuthPorts\\IAuthInputPort.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T23:19:50.061Z",
+              "EditorCaption": ""
             }
           ]
         }
